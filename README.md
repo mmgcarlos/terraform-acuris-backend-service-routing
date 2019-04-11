@@ -1,7 +1,6 @@
 Description
 -----------
 
-
 [![Build Status](https://travis-ci.org/mergermarket/terraform-acuris-backend-service-routing.svg?branch=master)](https://travis-ci.org/mergermarket/terraform-acuris-backend-service-routing)
 
 
